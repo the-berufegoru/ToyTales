@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/the-berufegoru/Workspace/toy-tales/ToyTales.Api/ToyTales.Api.csproj": {}
+    "/home/the-berufegoru/Workspace/ToyTales/ToyTales.Api/ToyTales.Api.csproj": {}
   },
   "projects": {
-    "/home/the-berufegoru/Workspace/toy-tales/ToyTales.Api/ToyTales.Api.csproj": {
+    "/home/the-berufegoru/Workspace/ToyTales/ToyTales.Api/ToyTales.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/the-berufegoru/Workspace/toy-tales/ToyTales.Api/ToyTales.Api.csproj",
+        "projectUniqueName": "/home/the-berufegoru/Workspace/ToyTales/ToyTales.Api/ToyTales.Api.csproj",
         "projectName": "ToyTales.Api",
-        "projectPath": "/home/the-berufegoru/Workspace/toy-tales/ToyTales.Api/ToyTales.Api.csproj",
+        "projectPath": "/home/the-berufegoru/Workspace/ToyTales/ToyTales.Api/ToyTales.Api.csproj",
         "packagesPath": "/home/the-berufegoru/.nuget/packages/",
-        "outputPath": "/home/the-berufegoru/Workspace/toy-tales/ToyTales.Api/obj/",
+        "outputPath": "/home/the-berufegoru/Workspace/ToyTales/ToyTales.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/the-berufegoru/.nuget/NuGet/NuGet.Config"
