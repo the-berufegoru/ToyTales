@@ -1,0 +1,27 @@
+GET http://localhost:5146/toys
+
+### 
+GET http://localhost:5146/toys/6
+
+###
+POST http://localhost:5146/toys
+Content-Type: application/json
+
+{
+    "name": "Slinky", 
+    "category": "Classic Toys", 
+    "price": "7.99"
+}
+
+###
+PUT http://localhost:5146/toys/5
+Content-Type: application/json
+
+{
+    "name": "Minecraft", 
+    "category": "Classic Toys", 
+    "price": "9.99"
+}
+
+### 
+DELETE  http://localhost:5146/toys/5
