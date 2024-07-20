@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToyTales.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fec077587090001e16a24f427e6a2a6f6593ebe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToyTales.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToyTales.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
